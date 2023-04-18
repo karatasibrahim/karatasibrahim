@@ -15,7 +15,8 @@
 <p align="left">
 <a href="https://linkedin.com/in/karatasibrahim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="karatasibrahim" height="30" width="40" /></a>
 <a href="https://instagram.com/ibkrts" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ibkrts" height="30" width="40" /></a>
-  ![Google Playv](https://user-images.githubusercontent.com/10358635/232654592-121cf694-3c2c-489f-98b3-668ae6b5ebbf.png) 
+
+![Google Playv](https://user-images.githubusercontent.com/10358635/232654891-c89291f8-c1a1-4bf7-a0b4-4e7773c040b9.png)
 
 </p>
 <h3 align="left">Languages and Tools:</h3>
