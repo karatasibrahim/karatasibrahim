@@ -18,7 +18,7 @@
  
  
  
- ![Google Playv](https://user-images.githubusercontent.com/10358635/233367376-62c60ef9-5a32-415e-8510-9769ab859fc4.png)(www.google.com)
+ ![Google Playv]([https://user-images.githubusercontent.com/10358635/233367376-62c60ef9-5a32-415e-8510-9769ab859fc4.png](https://play.google.com/store/apps/details?id=data.scientist)
 
  
  
