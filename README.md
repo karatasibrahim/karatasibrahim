@@ -17,10 +17,7 @@
 <a href="https://instagram.com/ibkrts" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ibkrts" height="30" width="40" /></a>
  
  
- 
-
-![Google Play](https://user-images.githubusercontent.com/10358635/233368164-ba6d99ff-52a9-4aec-9333-1ebd6a5f7508.png)[(Youtube)](https://www.youtube.com/watch?v=3HIr0imLgxM)
-
+  
  
  
  
