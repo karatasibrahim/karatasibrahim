@@ -17,7 +17,7 @@
 <a href="https://instagram.com/ibkrts" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ibkrts" height="30" width="40" /></a>
  
  
-  <a href="https://play.google.com/store/apps/details?id=data.scientist"><img src="https://github.com/karatasibrahim/karatasibrahim/blob/main/Google%20Playv.png" width="auto"></a>
+  <a href="https://play.google.com/store/apps/details?id=data.scientist"><img src="https://github.com/karatasibrahim/karatasibrahim/blob/main/Google%20Playv.png" width="auto" height="40px"></a>
  
  
  
