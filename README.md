@@ -3,9 +3,8 @@
 
 
 
-- 🔭 I’m currently working on [WorckCube](https://www.workcube.com/en/)
 
-- 🌱 I’m currently learning **Data Science, Artificial Intelligence, Machine Learning, Virtual Reality**
+- 🌱 I’m currently working on **Data Science, Artificial Intelligence, Machine Learning, Virtual Reality**
 
 - 💬 Ask me about **I'm İbrahim KARATAŞ, a full-time full-stack freelance developer 👨‍💻 working remotely since 2014**
 
