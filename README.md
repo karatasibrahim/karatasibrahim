@@ -29,7 +29,7 @@
 [![GitHub stars](https://img.shields.io/github/stars/microsoft/AI-For-Beginners.svg?style=social&label=Star)](https://GitHub.com/microsoft/AI-For-Beginners/stargazers/)
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/microsoft/ai-for-beginners/HEAD)
 [![Gitter](https://badges.gitter.im/Microsoft/ai-for-beginners.svg)](https://gitter.im/Microsoft/ai-for-beginners?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
-<img src="https://komarev.com/ghpvc/?username=karatasibrahim&label=Profile%20views&color=0e75b6&style=flat" alt="karatasibrahim" /> 
+
   
 
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=karatasibrahim&show_icons=true&locale=en" alt="karatasibrahim" /></p>
