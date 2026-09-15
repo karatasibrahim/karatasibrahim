@@ -12,7 +12,7 @@
 
 ## 👨‍💻 About Me
 
-I'm a full-stack software engineer based in İzmir, Türkiye, working as a full-time freelancer with international clients since 2014. I build end-to-end products — from database design and backend services to responsive, production-grade frontends — and I'm currently expanding my work into **Data Science, Machine Learning and AI-driven applications**.
+I'm a full-stack software engineer based in Denizli, Türkiye, working as a full-time freelancer with international clients since 2012. I build end-to-end products — from database design and backend services to responsive, production-grade frontends — and I'm currently expanding my work into **Data Science, Machine Learning and AI-driven applications**.
 
 - 🏭 Building **Odoo-based manufacturing modules (MES, MOM, IoT, Andon)** fully integrated with Netsis ERP
 - 🌱 Currently focused on **Data Science, Artificial Intelligence, Machine Learning and Virtual Reality**
