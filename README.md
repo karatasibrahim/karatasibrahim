@@ -66,20 +66,7 @@ I'm a full-stack software engineer based in İzmir, Türkiye, working as a full-
 
 > Interested in Odoo–Netsis integration or smart manufacturing? Feel free to get in touch.
 
----
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=karatasibrahim&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karatasibrahim&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=karatasibrahim&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
-
----
 
 <p align="center">
   <i>Open to remote full-stack, ERP integration and AI/ML projects.</i>
